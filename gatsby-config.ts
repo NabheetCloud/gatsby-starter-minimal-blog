@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `BTP Simplify`,
     siteTitleAlt: `BTP Simplify`,
     siteHeadline: `BTP Simplify`,
-    siteDescription: `Simpify BTP`
+    siteDescription: `BTP Simpify`
   },
   trailingSlash: `never`,
   plugins: [
