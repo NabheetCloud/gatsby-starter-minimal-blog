@@ -35,7 +35,7 @@ const config: GatsbyConfig = {
             url: `https://twitter.com/Nabheet`,
           },
           {
-            name: `Homepage`,
+            name: `Powered by InfiniteLocus`,
             url: `https://www.infinitelocus.com`,
           },
         ],
